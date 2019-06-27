@@ -4,6 +4,14 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/profiler?activeTab=versions
 
+### [2.0.2](https://www.github.com/googleapis/cloud-profiler-nodejs/compare/v2.0.1...v2.0.2) (2019-06-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pprof to v1 ([#487](https://www.github.com/googleapis/cloud-profiler-nodejs/issues/487)) ([62dca18](https://www.github.com/googleapis/cloud-profiler-nodejs/commit/62dca18))
+* **docs:** make anchors work in jsdoc ([#513](https://www.github.com/googleapis/cloud-profiler-nodejs/issues/513)) ([f500602](https://www.github.com/googleapis/cloud-profiler-nodejs/commit/f500602))
+
 ## v2.0.2
 
 06-26-2019 08:59 PDT
@@ -81,4 +89,3 @@
 No changes since last release.
 
 Confirming that we can use [releasetool](https://github.com/googleapis/releasetool) to release the agent going forward.
-
